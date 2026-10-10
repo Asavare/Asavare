@@ -43,7 +43,7 @@ Right now I'm sharpening my DSA fundamentals, building full-stack projects, expe
 |---|---|---|
 | 🌊 **MarinePedia** | Interactive marine-life encyclopedia | React • Java • Firebase |
 | 🧠 **StackPilot** | AI-powered tech-stack recommendation platform | AI • Web • UI/UX |
-| 📍 **Location API** | API platform for Indian village/location data | Node • Express • Prisma • PostgreSQL |
+| 📍 **India Location API** | API platform for Indian village/location data | Node • Express • Prisma • PostgreSQL |
 | 🥤 **PocketCoach** | Product concept for personalized coaching | JavaScript • Product Design |
 | 🍱 **FoodRescue** | Community-focused food waste reduction idea | Web • Product • Social Impact |
 
@@ -52,8 +52,18 @@ Right now I'm sharpening my DSA fundamentals, building full-stack projects, expe
 
 **Live:** https://marinepediaa.netlify.app/
 
-### 📍 Location API
-> A backend API designed around structured Indian location/village data.
+### 📍 [India Location API](https://github.com/Asavare/location-api)
+
+> A RESTful API for accessing Indian states, districts, sub-districts, and village data.
+
+**Tech Stack:** `Node.js · Express · Prisma · PostgreSQL`
+
+- 📦 645,000+ village records
+- 🔎 Searchable location data with filtering and pagination
+- 🔐 API-key authentication
+- 📚 Interactive Swagger API documentation
+
+**🔗 Links:** [GitHub Repository](https://github.com/Asavare/location-api) · [Live API](https://location-api-az0d.onrender.com) · [API Documentation](https://location-api-az0d.onrender.com/api-docs/)
 
 **Architecture:** `Client → Express API → Prisma → PostgreSQL`
 
